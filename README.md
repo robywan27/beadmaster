@@ -1,0 +1,2 @@
+# beadmaster
+Board game model
